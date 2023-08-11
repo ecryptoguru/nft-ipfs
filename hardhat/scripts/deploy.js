@@ -3,7 +3,7 @@ require("dotenv").config({ path: ".env" });
 
 async function main() {
   // URL from where we can extract the metadata for a AnkitPunks
-  const metadataURL = "https://ipfs.io/ipfs/QmXVwNZfJEf3ZbfcqDJRAyWc5bfHzWbP4SnhPrwgxcLpxg/";
+  const metadataURL = "https://ipfs.io/ipfs/QmQuZ1nv66Lyi77fTaaeVt9ZXwNBaGAYz3EKzVLG1vaU58/";
   /*
   DeployContract in ethers.js is an abstraction used to deploy new smart contracts,
   so AnkitPunksContract here is a factory for instances of our AnkitPunks contract.
