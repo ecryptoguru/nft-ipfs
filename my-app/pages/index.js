@@ -171,7 +171,7 @@ export default function Home() {
           <h1 className={styles.title}>Welcome to AnkitPunks!</h1>
           <div className={styles.description}>
             {/* Using HTML Entities for the apostrophe */}
-            It&#39;s an NFT collection for LearnWeb3 students.
+            It&#39;s an NFT collection for Web3 Punks.
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/10 have been minted
@@ -183,7 +183,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Ankit Das</footer>
+      <footer className={styles.footer}>2023 Created; by Ankit Das</footer>
     </div>
   );
 }
