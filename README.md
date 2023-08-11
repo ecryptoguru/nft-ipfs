@@ -4,7 +4,7 @@
 All 10 NFTs have custom metadata, which is uploaded to IPFS using Pinata.
 A Frontend has also been created for the NFT minting page using Next.js@12 React Framework with the help of Web3Modal and ethers.js
 
-Anyone can use this opensource code to create thier custom NFT Collection.
+Anyone can use this opensource code to create their custom NFT Collection.
 
 Try running some of the following tasks:
 
