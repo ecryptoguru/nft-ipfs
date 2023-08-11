@@ -21,10 +21,5 @@ npm install @openzeppelin/contracts
 npm install dotenv
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network mumbai
-npx create-next-app@12
-cd my-app
-npm run dev
-npm install web3modal
-npm i ethers@5
-npm run dev
+
 ```
